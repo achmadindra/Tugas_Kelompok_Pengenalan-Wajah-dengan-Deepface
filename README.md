@@ -1,5 +1,11 @@
 # Tugas_Kelompok_Pengenalan-Wajah-dengan-Deepface
 
+Tugas kelompok pengenalan wajah dengan Deepface. Anggota:
+
+Andik Wijarnarko (33220006)
+
+Achmad Indra Aulia (33221023)
+
 ***Deskripsi singkat program:***
 
 `main_program.ipynb`  : program utama pengenalan wajah dengan Deepface
